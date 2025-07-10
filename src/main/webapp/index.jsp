@@ -2,7 +2,7 @@
 <html>
 <head><title>SimpleWebApp</title></head>
 <body>
-<h1>Welcome to SimpleWebApp</h1>
-<a href="hello">Say Hello</a>
+<h1>Welcome to DEVOPS</h1>
+<a href="hello">hello all</a>
 </body>
 </html>
