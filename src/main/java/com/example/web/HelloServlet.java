@@ -10,6 +10,6 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html");
-        response.getWriter().println("<h2>Hello from Servlet!</h2>");
+        response.getWriter().println("<h2>wowww great demons!!!!!!</h2>");
     }
 }
