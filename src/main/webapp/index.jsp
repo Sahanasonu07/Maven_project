@@ -3,6 +3,6 @@
 <head><title>SimpleWebApp</title></head>
 <body>
 <h1>Welcome to SimpleWebApp </h1>
-<a href="hello">say hello </a>
+<a href="hello">Say hello </a>
 </body>
 </html>
